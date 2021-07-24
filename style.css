@@ -91,7 +91,10 @@ body{
     font: bolder;
 }
 
-
+body {
+  overflow: hidden;
+  margin: 0;
+}
 /* main */
 main .wrapper h2 {
     padding-left: 10px;
